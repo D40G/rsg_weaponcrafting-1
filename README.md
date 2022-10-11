@@ -6,8 +6,8 @@
 # Framework QBCore FiveM Edition
 - https://github.com/qbcore-framework
 
-# Preview
-- https://www.youtube.com/watch?v=a5tjiQv6_xA
+# Showcase
+[![Watch the video](https://img.youtube.com/vi/a5tjiQv6_xA/maxresdefault.jpg)](https://youtu.be/a5tjiQv6_xA)
 
 # Dependancies
 - qb-core : https://github.com/qbcore-framework/qb-core
